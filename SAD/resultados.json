@@ -1,0 +1,26 @@
+{
+    "dupla": {
+        "nome": "dupla 34",
+        "alunos": [
+          {"nome": "Yano Cavalcante", "matricula": "23103135"},
+          {"nome": "Marina Benvenuti", "matricula": "23103131"}
+        ]
+    },
+    "quartus": {
+        "os": "Ubuntu (imagem Quartus II)",
+        "versao": "13.0.1 (completar)",
+        "fpga": {
+            "familia": "Cyclone II",
+            "dispositivo": "EP2C5AF256A7"
+        }
+    },
+    "utilizacao": {
+        "total combinational functions": 332,
+        "dedicated logic registers": 31,
+        "total pins": 41
+    },
+    "atraso": {
+        "Fmax": 39.73,
+        "unidade": "MHz"
+    }
+}
