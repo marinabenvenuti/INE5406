@@ -51,7 +51,7 @@ O fluxo de operação funciona da seguinte forma:
 
 A implementação do circuito SAD foi verificada através de simulação utilizando a ferramenta GHDL para compilação e execução, e GTKWave para visualização dos sinais. Esta abordagem permitiu uma análise detalhada do comportamento temporal do circuito. A simulação comprovou o correto funcionamento do circuito, com o cálculo preciso das diferenças absolutas e a acumulação correta dos valores.
 
-![Simulação](INE5406/SAD/images/gtkwave.png)
+![gtkwave](https://github.com/user-attachments/assets/059c255e-6c4a-4120-95fd-5c9c2dc810ac)
 
 A imagem acima mostra alguns dos principais sinais do circuito durante a operação:
 * clk e rst_a sincronizando as operações;
